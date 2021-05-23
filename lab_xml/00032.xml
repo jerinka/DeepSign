@@ -1,0 +1,38 @@
+<annotation>
+	<folder>warning</folder>
+	<filename>00032.png</filename>
+	<path>C:/Users/DHANYA PAULOSE/Desktop/DATASET/traffic sign dataset/warning/00032.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Warning for a side road merging with the main road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>509</xmin>
+			<ymin>391</ymin>
+			<xmax>635</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Road gets narrow on the left side</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>495</xmin>
+			<ymin>276</ymin>
+			<xmax>643</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

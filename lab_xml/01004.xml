@@ -1,0 +1,38 @@
+<annotation>
+	<folder>download</folder>
+	<filename>01004.png</filename>
+	<path>C:/Users/DHANYA PAULOSE/Desktop/download/01004.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>641</width>
+		<height>936</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stopping and parking forbidden</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>401</ymin>
+			<xmax>511</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lorries-trucks forbidden</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>491</ymin>
+			<xmax>507</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>download</folder>
+	<filename>01015.png</filename>
+	<path>C:/Users/DHANYA PAULOSE/Desktop/download/01015.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>999</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stopping and parking forbidden</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>474</ymin>
+			<xmax>267</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speedlimit30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>552</ymin>
+			<xmax>269</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+</annotation>

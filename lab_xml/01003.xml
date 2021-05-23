@@ -1,0 +1,26 @@
+<annotation>
+	<folder>download</folder>
+	<filename>01003.png</filename>
+	<path>C:/Users/DHANYA PAULOSE/Desktop/download/01003.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>641</width>
+		<height>936</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turning right mandatory</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>467</xmin>
+			<ymin>546</ymin>
+			<xmax>514</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

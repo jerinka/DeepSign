@@ -1,0 +1,26 @@
+<annotation>
+	<folder>prohibitory</folder>
+	<filename>00035.png</filename>
+	<path>C:/Users/DHANYA PAULOSE/Desktop/DATASET/traffic sign dataset/prohibitory/00035.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No turning / u-turn allowed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>143</ymin>
+			<xmax>318</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

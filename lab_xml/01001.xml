@@ -1,0 +1,26 @@
+<annotation>
+	<folder>download</folder>
+	<filename>01001.png</filename>
+	<path>C:/Users/DHANYA PAULOSE/Desktop/download/01001.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>999</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>road ahead curves to left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>368</ymin>
+			<xmax>340</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

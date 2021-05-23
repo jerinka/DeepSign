@@ -1,0 +1,50 @@
+<annotation>
+	<folder>download</folder>
+	<filename>01012.png</filename>
+	<path>C:/Users/DHANYA PAULOSE/Desktop/download/01012.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>999</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Using the horn prohibited</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>302</ymin>
+			<xmax>213</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speedlimit50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>299</ymin>
+			<xmax>278</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mandatory lane for cars</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>302</ymin>
+			<xmax>381</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>download</folder>
+	<filename>01009.png</filename>
+	<path>C:/Users/DHANYA PAULOSE/Desktop/download/01009.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>999</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Height restriction ahead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>482</ymin>
+			<xmax>301</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+</annotation>

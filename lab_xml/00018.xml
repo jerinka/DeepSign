@@ -1,0 +1,38 @@
+<annotation>
+	<folder>warning</folder>
+	<filename>00018.png</filename>
+	<path>C:/Users/DHANYA PAULOSE/Desktop/DATASET/traffic sign dataset/warning/00018.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speedlimit40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>313</ymin>
+			<xmax>567</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Warning for a side road merging with the main road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>506</xmin>
+			<ymin>265</ymin>
+			<xmax>567</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

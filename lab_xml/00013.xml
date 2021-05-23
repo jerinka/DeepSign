@@ -1,0 +1,38 @@
+<annotation>
+	<folder>prohibitory</folder>
+	<filename>00013.png</filename>
+	<path>C:/Users/DHANYA PAULOSE/Desktop/DATASET/traffic sign dataset/prohibitory/00013.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>passing left mandatory</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>904</xmin>
+			<ymin>363</ymin>
+			<xmax>1030</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Height restriction ahead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>977</xmin>
+			<ymin>71</ymin>
+			<xmax>1143</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>
